@@ -15,8 +15,8 @@ This is a simple blog application built with **React.js** to practice and demons
 - **React.js** – Frontend library
 - **React Router DOM** – For routing between pages
 - **useState / useEffect** – React hooks for state management and side effects
-- **LocalStorage / JSON Server (optional)** – For data persistence (based on your implementation)
-- **CSS** – For basic styling (or Tailwind/Bootstrap if used)
+- **LocalStorage / JSON Server (optional)** – For data persistence 
+- **CSS**
 
 ## 🛠️ Getting Started
 
@@ -28,5 +28,5 @@ This is a simple blog application built with **React.js** to practice and demons
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/react-blog-crud.git
-   cd react-blog-crud
+   git clone https://github.com/your-username/React-Blog-Application.git
+   cd demoapp
